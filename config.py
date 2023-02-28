@@ -4,6 +4,6 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-BOT_TOKEN= "5533080863:AAE0xfhOetocXjrcrl4PsIXYwGoiFAvYq-c"
+BOT_TOKEN= "5963440374:AAGyyQfueP9vk_YFacvixvcK-Yt7JrmYUCI"
 
 ADMINS = [5100210341]
